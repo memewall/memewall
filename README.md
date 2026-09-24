@@ -24,9 +24,9 @@
 
 | | |
 |---|---|
-| 🟩 **Claim** | Pick a free square. Neighbouring tiles of one token merge into one big poster. |
-| 🏷️ **Name your price** | Anyone can buy your tiles at the price you set — high to defend, low to hold cheap. |
-| ⚔️ **Take over** | Buy someone else's tiles and your coin replaces theirs, live, for everyone. |
+| 🟩 **Claim** | A free tile is **$5 for 6 hours**. Neighbouring tiles of one token merge into one big poster. |
+| ⏳ **Extend** | Keep your spot: **+6 hours for $5** a tile, any time, up to 7 days ahead. |
+| ⚔️ **Take over** | Take someone's tile before their time is up for **double** what they paid — $10, $20, $40… They get their money back; you get a fresh 6 hours. |
 | 🏴‍☠️ **Raid** | Communities chip in together to take a spot none of them could alone. |
 | 👑 **King of the day** | The token holding the most wall today wears the crown tomorrow. |
 | 🏁 **Seasons** | Every month the players who held the wall longest take the season. |
