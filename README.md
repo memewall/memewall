@@ -18,7 +18,7 @@
 
 <a href="https://memewall.se/runners"><img src="https://memewall.se/api/og/hot.png?theme=dark" alt="Today's runners on MEMEWALL — coins that did 2x or more in 24 hours" width="100%"></a>
 
-<sub>Live from the wall: coins that did 2x+ in the last 24 hours and the top mover of every chain — Solana, Base, BNB Chain, Ethereum. Refreshed every 6 hours.</sub>
+<sub>Live from the wall: coins that did 2x+ in the last 24 hours and the top mover of every chain — Solana, Robinhood Chain, Base, BNB Chain, Ethereum. Refreshed every 6 hours.</sub>
 
 ## 🧱 How it plays
 
