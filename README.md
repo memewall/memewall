@@ -69,7 +69,7 @@ MEMEWALL is built so that connecting a wallet never gives anyone the power to ta
 
 **🧾 How the money is handled**
 - **The blockchain is the only proof of payment.** The server itself checks every top-up on chain: it must come from your signed-in wallet, in the right token, for the right amount, with enough confirmations. One transaction counts once — it can never be reused.
-- **The server holds no private key that can move funds.** Withdrawals are sent by hand from the treasury, only to the wallet you signed in with — never to another address. Minimum $10, within 24 hours.
+- **The treasury's keys never touch the server.** Withdrawals go out from a separate payout wallet that holds only a small float, and every payout needs a one-time code from the operator's authenticator app. They are sent only to the wallet you signed in with — never to another address. Minimum $10, within 24 hours.
 - **Emergency stop:** payments can be paused in seconds while the wall keeps running.
 - Your balance on MEMEWALL is held by the project until you withdraw it. Keep on the wall what you play with.
 
