@@ -60,10 +60,10 @@ MEMEWALL is built so that connecting a wallet never gives anyone the power to ta
 - **Never your seed phrase or private key.** Not on the site, not in DMs, not "for support". Anyone who asks is not us.
 
 **💸 Topping up is one ordinary transfer you confirm yourself**
-- A top-up is a single stablecoin transfer for the exact amount you typed. Your wallet shows the amount and the recipient before you press confirm.
-- Only **USDC on Solana**, **USDC on Base** and **USDT on BNB Chain**, recognised by their official contract / mint addresses — never by ticker, so fake "USDC" tokens don't count.
+- A top-up is a single transfer for the exact amount shown. Your wallet shows the amount and the recipient before you press confirm.
+- Only **USDC on Solana**, **USDT on Ethereum** and **BNB Chain** (at $1 a coin), and **ETH on Ethereum** and **Robinhood Chain** (at the market price when you top up). Tokens are recognised by their official contract / mint addresses — never by ticker, so fake "USDT" tokens don't count.
 - Top-ups only ever go to these addresses — check them in the wallet window:
-  - EVM (Base, BNB Chain): `0x42E1A40594f95a5Aaa200CF728c1f4eD56d47058`
+  - EVM (Ethereum, BNB Chain, Robinhood Chain): `0x42E1A40594f95a5Aaa200CF728c1f4eD56d47058`
   - Solana: `GpVGZuBN4y5p7Jmu183twXietU5NSP1RHyg5mp4PvPoF`
 - On Solana the same transfer may create the treasury's USDC account the first time — a one-off network fee of about 0.002 SOL, shown by your wallet.
 
