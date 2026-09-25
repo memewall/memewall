@@ -30,7 +30,7 @@
 | 🏴‍☠️ **Raid** | Communities chip in together to take a spot none of them could alone. |
 | 👑 **King of the day** | The token holding the most wall today wears the crown tomorrow. |
 | 🏁 **Seasons** | Every month the players who held the wall longest take the season. |
-| 🎁 **First square free** | The first 30 coins get a 2×2 for 24 hours for one post on X about it. |
+| 🎁 **First square free** | The first 30 coins get a 2×2 for 6 hours for one post on X about it. |
 | 🤝 **Invite & earn** | 10% of what the wall makes from every friend you bring, for 30 days. [How it works ↓](#-invite--earn) |
 
 ## 🤝 Invite & earn
@@ -42,7 +42,7 @@ Bring people to the wall and earn real money from what they play. Your link is o
 | 💸 **10% for 30 days** | For 30 days after a friend first signs in with your link, you get **10% of what the wall makes from them**: $5 for new tiles, the wall's half of every takeover, premium and auction bids. |
 | ⚡ **Paid at once** | Earnings land on your MEMEWALL balance the moment your friend pays. Withdraw any time from $10, like any other balance. |
 | ⏳ **Your friends win too** | A friend who joins with your link gets **+6 hours on their first tiles** — 12 hours on the wall instead of 6. |
-| 🏆 **Referrer of the week** | Monday to Monday (UTC), whoever brings the most friends who pay for the first time wins a **free 2×2 for 24 hours**. Paying friends count, empty sign-ups don't. |
+| 🏆 **Referrer of the week** | Monday to Monday (UTC), whoever brings the most friends who pay for the first time wins a **free 2×2 for 6 hours**. Paying friends count, empty sign-ups don't. |
 | 📣 **Every share carries your link** | Sharing a poster, a raid or your free-square post on X adds your referral link automatically. |
 
 <sub>What a takeover pays back to the previous owner is their money, not the wall's, so it isn't counted. A link only counts on a wallet's very first sign-in, one referrer per wallet, and inviting yourself from the same network doesn't count.</sub>
