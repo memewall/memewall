@@ -61,7 +61,8 @@ MEMEWALL is built so that connecting a wallet never gives anyone the power to ta
 
 **💸 Topping up is one ordinary transfer you confirm yourself**
 - A top-up is a single transfer for the exact amount shown. Your wallet shows the amount and the recipient before you press confirm.
-- Only **USDC on Solana**, **USDT on Ethereum** and **BNB Chain** (at $1 a coin), and **SOL**, and **ETH on Ethereum** and **Robinhood Chain** (at the market price when you top up). Tokens are recognised by their official contract / mint addresses — never by ticker, so fake "USDT" tokens don't count.
+- Accepted: **USDC** on Solana and **USDT** on Ethereum and BNB Chain at $1 a coin; **SOL** on Solana and **ETH** on Ethereum and Robinhood Chain at the market price when you top up (your wallet shows the exact amount).
+- Tokens are recognised by their official contract / mint addresses — never by ticker, so fake "USDT" tokens don't count.
 - Top-ups only ever go to these addresses — check them in the wallet window:
   - EVM (Ethereum, BNB Chain, Robinhood Chain): `0x42E1A40594f95a5Aaa200CF728c1f4eD56d47058`
   - Solana: `GpVGZuBN4y5p7Jmu183twXietU5NSP1RHyg5mp4PvPoF`
