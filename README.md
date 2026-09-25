@@ -1,8 +1,8 @@
 <div align="center">
 
-<a href="https://memewall.se"><img src="assets/banner.png" alt="MEMEWALL — 768 tiles. One internet. Your meme on the wall." width="100%"></a>
+<a href="https://memewall.se"><img src="assets/banner.png" alt="MEMEWALL — the memecoin billboard" width="100%"></a>
 
-### 768 tiles. One internet. Your meme on the wall.
+### The memecoin billboard. 768 tiles, and every memecoin wants one.
 
 [![memewall.se](https://img.shields.io/badge/memewall.se-d0f56b?style=for-the-badge&labelColor=20221e)](https://memewall.se)
 [![X](https://img.shields.io/badge/@memewallse-20221e?style=for-the-badge&logo=x&logoColor=white)](https://x.com/memewallse)
@@ -16,7 +16,7 @@
 
 ## 🔥 On the wall right now
 
-<a href="https://memewall.se/runners"><img src="https://memewall.se/api/og/hot.png" alt="Today's runners on MEMEWALL — coins that did 2x or more in 24 hours" width="100%"></a>
+<a href="https://memewall.se/runners"><img src="https://memewall.se/api/og/hot.png?theme=dark" alt="Today's runners on MEMEWALL — coins that did 2x or more in 24 hours" width="100%"></a>
 
 <sub>Live from the wall: coins that did 2x+ in the last 24 hours and the top mover of every chain — Solana, Base, BNB Chain, Ethereum. Refreshed every 6 hours.</sub>
 
